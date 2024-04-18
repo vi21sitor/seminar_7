@@ -1,0 +1,14 @@
+C:\Users\katar\OneDrive\Рабочий стол\L7\bin\Debug\net8.0\L7.exe
+C:\Users\katar\OneDrive\Рабочий стол\L7\bin\Debug\net8.0\L7.deps.json
+C:\Users\katar\OneDrive\Рабочий стол\L7\bin\Debug\net8.0\L7.runtimeconfig.json
+C:\Users\katar\OneDrive\Рабочий стол\L7\bin\Debug\net8.0\L7.dll
+C:\Users\katar\OneDrive\Рабочий стол\L7\bin\Debug\net8.0\L7.pdb
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\L7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\L7.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\L7.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\L7.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\L7.dll
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\refint\L7.dll
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\L7.pdb
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\L7.genruntimeconfig.cache
+C:\Users\katar\OneDrive\Рабочий стол\L7\obj\Debug\net8.0\ref\L7.dll
